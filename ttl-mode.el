@@ -55,7 +55,7 @@
 ;; (add-hook 'ttl-mode-hook 'turn-on-font-lock)
 ;; (add-to-list 'auto-mode-alist '("\\.\\(n3\\|ttl\\|trig\\)\\'" . ttl-mode))
 ;;
-;; Version: @VERSION@
+;; Version: 0.2
 
 ;;; Code:
 
